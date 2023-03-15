@@ -6,10 +6,13 @@ icon: home
 
 This repository contains the translation files of all system strings for [Retype](http://retype.com).
 
-See the `/src` folder of this repository.
+See the `/src` folder of this repository for the source translation files.
 
-Please submit a [Pull Request](https://github.com/retypeapp/translations/pulls) with a revision or a new `.resx` file to support add a new language. Accepted changes will be included in the next release of Retype.
+Please submit a [Pull Request](https://github.com/retypeapp/translations/pulls) with a revision or a new `.resx` file to add a new language.
 
+Accepted changes will be included in the next release of Retype.
+
+View this page [online](https://retypeapp.github.io/retype-translations/).
 
 ## The &lt;value&gt;
 
