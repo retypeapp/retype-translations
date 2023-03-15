@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!--
+    Microsoft ResX Schema
+
+    Version 2.0
+
+    The primary goals of this format is to allow a simple XML format
+    that is mostly human readable. The generation and parsing of the
+    various data types are done through the TypeConverter classes
+    associated with the data types.
+
+    Example:
+
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+
+    There are any number of "resheader" rows that contain simple
+    name/value pairs.
+
+    Each data row contains a name, and value. The row also contains a
+    type or mimetype. Type corresponds to a .NET class that support
+    text/value conversion through the TypeConverter architecture.
+    Classes that don't support this are serialized and stored with the
+    mimetype set.
+
+    The mimetype is used for serialized objects, and tells the
+    ResXResourceReader how to depersist the object. This is currently not
+    extensible. For a given mimetype the value must be set accordingly:
+
+    Note - application/x-microsoft.net.object.binary.base64 is the format
+    that the ResXResourceWriter will generate, however the reader can
+    read any of the formats listed below.
+
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alert_Caution_Title" xml:space="preserve">
+    <value>주의</value>
+    <comment>CAUTION</comment>
+  </data>
+  <data name="Alert_Danger_Title" xml:space="preserve">
+    <value>위험</value>
+    <comment>DANGER</comment>
+  </data>
+  <data name="Alert_Info_Title" xml:space="preserve">
+    <value>정보</value>
+    <comment>INFO</comment>
+  </data>
+  <data name="Alert_Note_Title" xml:space="preserve">
+    <value>참고</value>
+    <comment>NOTE</comment>
+  </data>
+  <data name="Alert_Tip_Title" xml:space="preserve">
+    <value>팁</value>
+    <comment>TIP</comment>
+  </data>
+  <data name="API_AccessFilter_Label" xml:space="preserve">
+    <value>접근</value>
+    <comment>Access</comment>
+  </data>
+  <data name="API_ClassType_Name" xml:space="preserve">
+    <value>클래스</value>
+    <comment>Class</comment>
+  </data>
+  <data name="API_CopiedAckHint_Label" xml:space="preserve">
+    <value>복사 완료!</value>
+    <comment>Copied!</comment>
+  </data>
+  <data name="API_CopyHint_Label" xml:space="preserve">
+    <value>복사</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="API_CopyLinkHint_Label" xml:space="preserve">
+    <value>링크 복사</value>
+    <comment>Copy link</comment>
+  </data>
+  <data name="API_CopyNameHint_Label" xml:space="preserve">
+    <value>이름 복사</value>
+    <comment>Copy name</comment>
+  </data>
+  <data name="API_DefaultParameterValue_Label" xml:space="preserve">
+    <value>기본값</value>
+    <comment>Default value</comment>
+  </data>
+  <data name="API_DelegateType_Name" xml:space="preserve">
+    <value>델리게이트</value>
+    <comment>Delegate</comment>
+  </data>
+  <data name="API_EnumType_Name" xml:space="preserve">
+    <value>열거형</value>
+    <comment>Enum</comment>
+  </data>
+  <data name="API_EventGroup_Title" xml:space="preserve">
+    <value>이벤트</value>
+    <comment>Events</comment>
+  </data>
+  <data name="API_FieldGroup_Title" xml:space="preserve">
+    <value>필드</value>
+    <comment>Fields</comment>
+  </data>
+  <data name="API_InheritedFilter_Label" xml:space="preserve">
+    <value>상속된</value>
+    <comment>Inherited</comment>
+  </data>
+  <data name="API_InterfaceType_Name" xml:space="preserve">
+    <value>인터페이스</value>
+    <comment>Interface</comment>
+  </data>
+  <data name="API_MethodGroup_Title" xml:space="preserve">
+    <value>메소드</value>
+    <comment>Methods</comment>
+  </data>
+  <data name="API_MoreDropdownItems_Label" xml:space="preserve">
+    <value>더보기</value>
+    <comment>More</comment>
+  </data>
+  <data name="API_MoreOverloads_Label" xml:space="preserve">
+    <value>더 많음</value>
+    <comment>more</comment>
+  </data>
+  <data name="API_OptionalParameter_Label" xml:space="preserve">
+    <value>선택적</value>
+    <comment>optional</comment>
+  </data>
+  <data name="API_ParameterSection_Label" xml:space="preserve">
+    <value>매개 변수</value>
+    <comment>PARAMETERS</comment>
+  </data>
+  <data name="API_PropertyGroup_Title" xml:space="preserve">
+    <value>속성</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="API_ProtectedAccess_Name" xml:space="preserve">
+    <value>보호됨</value>
+    <comment>Protected</comment>
+  </data>
+  <data name="API_PublicAccess_Name" xml:space="preserve">
+    <value>공개됨</value>
+    <comment>Public</comment>
+  </data>
+  <data name="API_RecordType_Name" xml:space="preserve">
+    <value>레코드</value>
+    <comment>Record</comment>
+  </data>
+  <data name="API_SecurityAlert_Title" xml:space="preserve">
+    <value>보안</value>
+    <comment>Security</comment>
+  </data>
+  <data name="API_SecurityNoteAlert_Title" xml:space="preserve">
+    <value>보안 노트</value>
+    <comment>Security Note</comment>
+  </data>
+  <data name="API_SignatureSection_Label" xml:space="preserve">
+    <value>서명</value>
+    <comment>SIGNATURE</comment>
+  </data>
+  <data name="API_StructType_Name" xml:space="preserve">
+    <value>구조체</value>
+    <comment>Struct</comment>
+  </data>
+  <data name="API_TypeHierarchyPanel_Title" xml:space="preserve">
+    <value>계층</value>
+    <comment>Hierarchy</comment>
+  </data>
+  <data name="ContentFooter_NewerButton_Label" xml:space="preserve">
+    <value>최신</value>
+    <comment>Newer</comment>
+  </data>
+  <data name="ContentFooter_NextButton_Label" xml:space="preserve">
+    <value>다음</value>
+    <comment>Next</comment>
+  </data>
+  <data name="ContentFooter_OlderButton_Label" xml:space="preserve">
+    <value>이전</value>
+    <comment>Older</comment>
+  </data>
+  <data name="ContentFooter_PrevButton_Label" xml:space="preserve">
+    <value>이전</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="Editor_CancelButton_Label" xml:space="preserve">
+    <value>취소</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="Editor_EditButton_Label" xml:space="preserve">
+    <value>편집</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="Editor_SaveButton_Label" xml:space="preserve">
+    <value>저장</value>
+    <comment>Save</comment>
+  </data>
+  <data name="Filter_NoMembersFound_Label" xml:space="preserve">
+    <value>쿼리어와 일치하는 멤버 이름을 찾을 수 없습니다</value>
+    <comment>No member names found containing the query</comment>
+  </data>
+  <data name="History_AgoTime_Label" xml:space="preserve">
+    <value>전</value>
+    <comment>ago</comment>
+  </data>
+  <data name="History_ClearLink_Label" xml:space="preserve">
+    <value>지우기</value>
+    <comment>Clear</comment>
+  </data>
+  <data name="History_DayTime_Label" xml:space="preserve">
+    <value>일</value>
+    <comment>d</comment>
+  </data>
+  <data name="History_HourTime_Label" xml:space="preserve">
+    <value>시간</value>
+    <comment>h</comment>
+  </data>
+  <data name="History_JustNowTime_Label" xml:space="preserve">
+    <value>방금</value>
+    <comment>just now</comment>
+  </data>
+  <data name="History_MinuteTime_Label" xml:space="preserve">
+    <value>분</value>
+    <comment>m</comment>
+  </data>
+  <data name="History_MonthTime_Label" xml:space="preserve">
+    <value>개월</value>
+    <comment>mo</comment>
+  </data>
+  <data name="History_NoHistory_Label" xml:space="preserve">
+    <value>기록 없음</value>
+    <comment>No history items</comment>
+  </data>
+  <data name="History_SecondTime_Label" xml:space="preserve">
+    <value>초</value>
+    <comment>s</comment>
+  </data>
+  <data name="History_Title_Label" xml:space="preserve">
+    <value>기록</value>
+    <comment>History</comment>
+  </data>
+  <data name="History_YearTime_Label" xml:space="preserve">
+    <value>년</value>
+    <comment>y</comment>
+  </data>
+  <data name="Note_Caution_Title" xml:space="preserve">
+    <value>주의</value>
+    <comment>Caution</comment>
+  </data>
+  <data name="Note_Important_Title" xml:space="preserve">
+    <value>중요</value>
+    <comment>Important</comment>
+  </data>
+  <data name="Note_Note_Title" xml:space="preserve">
+    <value>메모</value>
+    <comment>Note</comment>
+  </data>
+  <data name="Note_Tip_Title" xml:space="preserve">
+    <value>팁</value>
+    <comment>Tip</comment>
+  </data>
+  <data name="Note_Warning_Title" xml:space="preserve">
+    <value>경고</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="PageMeta_By_Label" xml:space="preserve">
+    <value>작성자</value>
+    <comment>By</comment>
+  </data>
+  <data name="PageMeta_In_Label" xml:space="preserve">
+    <value>위치</value>
+    <comment>In</comment>
+  </data>
+  <data name="PageMeta_Published_Label" xml:space="preserve">
+    <value>게시된</value>
+    <comment>Published</comment>
+  </data>
+  <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
+    <value>홈페이지로 이동</value>
+    <comment>Go to homepage</comment>
+  </data>
+  <data name="Page_404_MessageBody" xml:space="preserve">
+    <value>주소를 잘못 입력하셨거나 페이지가 이동되었을 수 있습니다.</value>
+    <comment>You may have mistyped the address or the page may have been moved.</comment>
+  </data>
+  <data name="Page_404_MessageTitle" xml:space="preserve">
+    <value>앗! 찾으시는 페이지가 존재하지 않습니다.</value>
+    <comment>Oops! The page you’re looking for doesn’t exist.</comment>
+  </data>
+  <data name="Page_404_Title" xml:space="preserve">
+    <value>찾을 수 없음</value>
+    <comment>Not Found</comment>
+  </data>
+  <data name="Page_Blog_Title" xml:space="preserve">
+    <value>블로그</value>
+    <comment>Blog</comment>
+  </data>
+  <data name="Page_Categories_Title" xml:space="preserve">
+    <value>카테고리</value>
+    <comment>Categories</comment>
+  </data>
+  <data name="Page_Category_Categories_Label" xml:space="preserve">
+    <value>카테고리</value>
+    <comment>categories</comment>
+  </data>
+  <data name="Page_Category_SeeAll_Label" xml:space="preserve">
+    <value>모두 보기</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Category_Title" xml:space="preserve">
+    <value>카테고리</value>
+    <comment>Category</comment>
+  </data>
+  <data name="Page_Docs_Title" xml:space="preserve">
+    <value>문서</value>
+    <comment>Docs</comment>
+  </data>
+  <data name="Page_Tags_Title" xml:space="preserve">
+    <value>태그</value>
+    <comment>Tags</comment>
+  </data>
+  <data name="Page_Tag_SeeAll_Label" xml:space="preserve">
+    <value>모두 보기</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Tag_Tags_Label" xml:space="preserve">
+    <value>태그</value>
+    <comment>tags</comment>
+  </data>
+  <data name="Page_Tag_Title" xml:space="preserve">
+    <value>태그</value>
+    <comment>Tag</comment>
+  </data>
+  <data name="Page_Welcome_Title" xml:space="preserve">
+    <value>어서오세요</value>
+    <comment>Welcome</comment>
+  </data>
+  <data name="Plugin_Edit_EditThisPage_Label" xml:space="preserve">
+    <value>이 페이지 편집하기</value>
+    <comment>Edit this page</comment>
+  </data>
+  <data name="PrivatePage_Password_Label" xml:space="preserve">
+    <value>비밀번호 입력:</value>
+    <comment>Enter password:</comment>
+  </data>
+  <data name="PrivatePage_Password_Title" xml:space="preserve">
+    <value>이 페이지는 비밀번호로 보호됩니다</value>
+    <comment>This page is password protected</comment>
+  </data>
+  <data name="PrivatePage_Password_Unlock" xml:space="preserve">
+    <value>잠금 해제</value>
+    <comment>Unlock</comment>
+  </data>
+  <data name="PrivatePage_Password_Wrong" xml:space="preserve">
+    <value>잘못된 비밀번호입니다!</value>
+    <comment>Wrong password!</comment>
+  </data>
+  <data name="Project_DefaultTitle_Value" xml:space="preserve">
+    <value>프로젝트 이름</value>
+    <comment>Project Name</comment>
+  </data>
+  <data name="Search_Input_Placeholder" xml:space="preserve">
+    <value>검색</value>
+    <comment>Search</comment>
+  </data>
+  <data name="Search_NoResults_Label" xml:space="preserve">
+    <value>죄송합니다, 검색 결과가 없습니다.</value>
+    <comment>Sorry, no results found.</comment>
+  </data>
+  <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
+    <value>필터</value>
+    <comment>Filter</comment>
+  </data>
+  <data name="Toc_Contents_Label" xml:space="preserve">
+    <value>목차</value>
+    <comment>Contents</comment>
+  </data>
+  <data name="Toc_RelatedClasses_Label" xml:space="preserve">
+    <value>관련 클래스</value>
+    <comment>Related Classes</comment>
+  </data>
+  <data name="Toolbar_Access_Placeholder" xml:space="preserve">
+    <value>접근</value>
+    <comment>Access</comment>
+  </data>
+  <data name="Toolbar_Filters_Placeholder" xml:space="preserve">
+    <value>필터</value>
+    <comment>Filters</comment>
+  </data>
+  <data name="Toolbar_Filter_Placeholder" xml:space="preserve">
+    <value>필터</value>
+    <comment>Filter</comment>
+  </data>
+</root>
