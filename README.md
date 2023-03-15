@@ -14,7 +14,7 @@ Accepted changes will be included in the next release of Retype.
 
 View this page [online](https://retypeapp.github.io/retype-translations/).
 
-## The &lt;value&gt;
+## The &lt;value&gt; node
 
 The following sample from the French translation file is a typical `<data>` node:
 
