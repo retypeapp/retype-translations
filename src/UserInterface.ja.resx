@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alert_Caution_Title" xml:space="preserve">
+    <value>注意</value>
+    <comment>CAUTION</comment>
+  </data>
+  <data name="Alert_Danger_Title" xml:space="preserve">
+    <value>危険</value>
+    <comment>DANGER</comment>
+  </data>
+  <data name="Alert_Info_Title" xml:space="preserve">
+    <value>情報</value>
+    <comment>INFO</comment>
+  </data>
+  <data name="Alert_Note_Title" xml:space="preserve">
+    <value>注意事項</value>
+    <comment>NOTE</comment>
+  </data>
+  <data name="Alert_Tip_Title" xml:space="preserve">
+    <value>ヒント</value>
+    <comment>TIP</comment>
+  </data>
+  <data name="API_AccessFilter_Label" xml:space="preserve">
+    <value>アクセス</value>
+    <comment>Access</comment>
+  </data>
+  <data name="API_ClassType_Name" xml:space="preserve">
+    <value>クラス</value>
+    <comment>Class</comment>
+  </data>
+  <data name="API_CopiedAckHint_Label" xml:space="preserve">
+    <value>コピーされました！</value>
+    <comment>Copied!</comment>
+  </data>
+  <data name="API_CopyHint_Label" xml:space="preserve">
+    <value>コピー</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="API_CopyLinkHint_Label" xml:space="preserve">
+    <value>リンクをコピー</value>
+    <comment>Copy link</comment>
+  </data>
+  <data name="API_CopyNameHint_Label" xml:space="preserve">
+    <value>名前をコピー</value>
+    <comment>Copy name</comment>
+  </data>
+  <data name="API_DefaultParameterValue_Label" xml:space="preserve">
+    <value>既定値</value>
+    <comment>Default value</comment>
+  </data>
+  <data name="API_DelegateType_Name" xml:space="preserve">
+    <value>デリゲート</value>
+    <comment>Delegate</comment>
+  </data>
+  <data name="API_EnumType_Name" xml:space="preserve">
+    <value>列挙型</value>
+    <comment>Enum</comment>
+  </data>
+  <data name="API_EventGroup_Title" xml:space="preserve">
+    <value>イベント</value>
+    <comment>Events</comment>
+  </data>
+  <data name="API_FieldGroup_Title" xml:space="preserve">
+    <value>フィールド</value>
+    <comment>Fields</comment>
+  </data>
+  <data name="API_InheritedFilter_Label" xml:space="preserve">
+    <value>継承</value>
+    <comment>Inherited</comment>
+  </data>
+  <data name="API_InterfaceType_Name" xml:space="preserve">
+    <value>インターフェース</value>
+    <comment>Interface</comment>
+  </data>
+  <data name="API_MethodGroup_Title" xml:space="preserve">
+    <value>メソッド</value>
+    <comment>Methods</comment>
+  </data>
+  <data name="API_MoreDropdownItems_Label" xml:space="preserve">
+    <value>その他</value>
+    <comment>More</comment>
+  </data>
+  <data name="API_MoreOverloads_Label" xml:space="preserve">
+    <value>その他</value>
+    <comment>more</comment>
+  </data>
+  <data name="API_OptionalParameter_Label" xml:space="preserve">
+    <value>オプション</value>
+    <comment>optional</comment>
+  </data>
+  <data name="API_ParameterSection_Label" xml:space="preserve">
+    <value>パラメータ</value>
+    <comment>PARAMETERS</comment>
+  </data>
+  <data name="API_PropertyGroup_Title" xml:space="preserve">
+    <value>プロパティ</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="API_ProtectedAccess_Name" xml:space="preserve">
+    <value>保護</value>
+    <comment>Protected</comment>
+  </data>
+  <data name="API_PublicAccess_Name" xml:space="preserve">
+    <value>公開</value>
+    <comment>Public</comment>
+  </data>
+  <data name="API_RecordType_Name" xml:space="preserve">
+    <value>レコード</value>
+    <comment>Record</comment>
+  </data>
+  <data name="API_SecurityAlert_Title" xml:space="preserve">
+    <value>セキュリティ</value>
+    <comment>Security</comment>
+  </data>
+  <data name="API_SecurityNoteAlert_Title" xml:space="preserve">
+    <value>セキュリティ ノート</value>
+    <comment>Security Note</comment>
+  </data>
+  <data name="API_SignatureSection_Label" xml:space="preserve">
+    <value>署名</value>
+    <comment>SIGNATURE</comment>
+  </data>
+  <data name="API_StructType_Name" xml:space="preserve">
+    <value>構造体</value>
+    <comment>Struct</comment>
+  </data>
+  <data name="API_TypeHierarchyPanel_Title" xml:space="preserve">
+    <value>階層</value>
+    <comment>Hierarchy</comment>
+  </data>
+  <data name="ContentFooter_NewerButton_Label" xml:space="preserve">
+    <value>新しい</value>
+    <comment>Newer</comment>
+  </data>
+  <data name="ContentFooter_NextButton_Label" xml:space="preserve">
+    <value>次へ</value>
+    <comment>Next</comment>
+  </data>
+  <data name="ContentFooter_OlderButton_Label" xml:space="preserve">
+    <value>古い</value>
+    <comment>Older</comment>
+  </data>
+  <data name="ContentFooter_PrevButton_Label" xml:space="preserve">
+    <value>前へ</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="Editor_CancelButton_Label" xml:space="preserve">
+    <value>キャンセル</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="Editor_EditButton_Label" xml:space="preserve">
+    <value>編集</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="Editor_SaveButton_Label" xml:space="preserve">
+    <value>保存</value>
+    <comment>Save</comment>
+  </data>
+  <data name="Filter_NoMembersFound_Label" xml:space="preserve">
+    <value>クエリを含むメンバー名が見つかりません</value>
+    <comment>No member names found containing the query</comment>
+  </data>
+  <data name="History_AgoTime_Label" xml:space="preserve">
+    <value>前</value>
+    <comment>ago</comment>
+  </data>
+  <data name="History_ClearLink_Label" xml:space="preserve">
+    <value>クリア</value>
+    <comment>Clear</comment>
+  </data>
+  <data name="History_DayTime_Label" xml:space="preserve">
+    <value>日</value>
+    <comment>d</comment>
+  </data>
+  <data name="History_HourTime_Label" xml:space="preserve">
+    <value>時間</value>
+    <comment>h</comment>
+  </data>
+  <data name="History_JustNowTime_Label" xml:space="preserve">
+    <value>たった今</value>
+    <comment>just now</comment>
+  </data>
+  <data name="History_MinuteTime_Label" xml:space="preserve">
+    <value>分</value>
+    <comment>m</comment>
+  </data>
+  <data name="History_MonthTime_Label" xml:space="preserve">
+    <value>ヶ月</value>
+    <comment>mo</comment>
+  </data>
+  <data name="History_NoHistory_Label" xml:space="preserve">
+    <value>履歴がありません</value>
+    <comment>No history items</comment>
+  </data>
+  <data name="History_SecondTime_Label" xml:space="preserve">
+    <value>秒</value>
+    <comment>s</comment>
+  </data>
+  <data name="History_Title_Label" xml:space="preserve">
+    <value>履歴</value>
+    <comment>History</comment>
+  </data>
+  <data name="History_YearTime_Label" xml:space="preserve">
+    <value>年</value>
+    <comment>y</comment>
+  </data>
+  <data name="Note_Caution_Title" xml:space="preserve">
+    <value>注意</value>
+    <comment>Caution</comment>
+  </data>
+  <data name="Note_Important_Title" xml:space="preserve">
+    <value>重要</value>
+    <comment>Important</comment>
+  </data>
+  <data name="Note_Note_Title" xml:space="preserve">
+    <value>メモ</value>
+    <comment>Note</comment>
+  </data>
+  <data name="Note_Tip_Title" xml:space="preserve">
+    <value>ヒント</value>
+    <comment>Tip</comment>
+  </data>
+  <data name="Note_Warning_Title" xml:space="preserve">
+    <value>警告</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="PageMeta_By_Label" xml:space="preserve">
+    <value>作成者</value>
+    <comment>By</comment>
+  </data>
+  <data name="PageMeta_In_Label" xml:space="preserve">
+    <value>場所</value>
+    <comment>In</comment>
+  </data>
+  <data name="PageMeta_Published_Label" xml:space="preserve">
+    <value>公開</value>
+    <comment>Published</comment>
+  </data>
+  <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
+    <value>ホームページへ移動</value>
+    <comment>Go to homepage</comment>
+  </data>
+  <data name="Page_404_MessageBody" xml:space="preserve">
+    <value>アドレスが間違っているか、ページが移動された可能性があります。</value>
+    <comment>You may have mistyped the address or the page may have been moved.</comment>
+  </data>
+  <data name="Page_404_MessageTitle" xml:space="preserve">
+    <value>おっと！お探しのページは存在しません。</value>
+    <comment>Oops! The page you’re looking for doesn’t exist.</comment>
+  </data>
+  <data name="Page_404_Title" xml:space="preserve">
+    <value>見つかりません</value>
+    <comment>Not Found</comment>
+  </data>
+  <data name="Page_Blog_Title" xml:space="preserve">
+    <value>ブログ</value>
+    <comment>Blog</comment>
+  </data>
+  <data name="Page_Categories_Title" xml:space="preserve">
+    <value>カテゴリー</value>
+    <comment>Categories</comment>
+  </data>
+  <data name="Page_Category_Categories_Label" xml:space="preserve">
+    <value>カテゴリー</value>
+    <comment>categories</comment>
+  </data>
+  <data name="Page_Category_SeeAll_Label" xml:space="preserve">
+    <value>すべて表示</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Category_Title" xml:space="preserve">
+    <value>カテゴリー</value>
+    <comment>Category</comment>
+  </data>
+  <data name="Page_Docs_Title" xml:space="preserve">
+    <value>ドキュメント</value>
+    <comment>Docs</comment>
+  </data>
+  <data name="Page_Tags_Title" xml:space="preserve">
+    <value>タグ</value>
+    <comment>Tags</comment>
+  </data>
+  <data name="Page_Tag_SeeAll_Label" xml:space="preserve">
+    <value>すべて表示</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Tag_Tags_Label" xml:space="preserve">
+    <value>タグ</value>
+    <comment>tags</comment>
+  </data>
+  <data name="Page_Tag_Title" xml:space="preserve">
+    <value>タグ</value>
+    <comment>Tag</comment>
+  </data>
+  <data name="Page_Welcome_Title" xml:space="preserve">
+    <value>ようこそ</value>
+    <comment>Welcome</comment>
+  </data>
+  <data name="Plugin_Edit_EditThisPage_Label" xml:space="preserve">
+    <value>このページを編集</value>
+    <comment>Edit this page</comment>
+  </data>
+  <data name="PrivatePage_Password_Label" xml:space="preserve">
+    <value>パスワードを入力してください：</value>
+    <comment>Enter password:</comment>
+  </data>
+  <data name="PrivatePage_Password_Title" xml:space="preserve">
+    <value>このページはパスワードで保護されています</value>
+    <comment>This page is password protected</comment>
+  </data>
+  <data name="PrivatePage_Password_Unlock" xml:space="preserve">
+    <value>アンロック</value>
+    <comment>Unlock</comment>
+  </data>
+  <data name="PrivatePage_Password_Wrong" xml:space="preserve">
+    <value>パスワードが間違っています！</value>
+    <comment>Wrong password!</comment>
+  </data>
+  <data name="Project_DefaultTitle_Value" xml:space="preserve">
+    <value>プロジェクト名</value>
+    <comment>Project Name</comment>
+  </data>
+  <data name="Search_Input_Placeholder" xml:space="preserve">
+    <value>検索</value>
+    <comment>Search</comment>
+  </data>
+  <data name="Search_NoResults_Label" xml:space="preserve">
+    <value>ごめんなさい、結果が見つかりませんでした。</value>
+    <comment>Sorry, no results found.</comment>
+  </data>
+  <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
+    <value>フィルタ</value>
+    <comment>Filter</comment>
+  </data>
+  <data name="Toc_Contents_Label" xml:space="preserve">
+    <value>目次</value>
+    <comment>Contents</comment>
+  </data>
+  <data name="Toc_RelatedClasses_Label" xml:space="preserve">
+    <value>関連クラス</value>
+    <comment>Related Classes</comment>
+  </data>
+  <data name="Toolbar_Access_Placeholder" xml:space="preserve">
+    <value>アクセス</value>
+    <comment>Access</comment>
+  </data>
+  <data name="Toolbar_Filters_Placeholder" xml:space="preserve">
+    <value>フィルタ</value>
+    <comment>Filters</comment>
+  </data>
+  <data name="Toolbar_Filter_Placeholder" xml:space="preserve">
+    <value>フィルタ</value>
+    <comment>Filter</comment>
+  </data>
+</root>

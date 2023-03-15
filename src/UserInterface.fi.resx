@@ -1,0 +1,472 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Alert_Caution_Title" xml:space="preserve">
+    <value>PRECAUCIÓN</value>
+    <comment>CAUTION</comment>
+  </data>
+  <data name="Alert_Danger_Title" xml:space="preserve">
+    <value>PELIGRO</value>
+    <comment>DANGER</comment>
+  </data>
+  <data name="Alert_Info_Title" xml:space="preserve">
+    <value>INFORMACIÓN</value>
+    <comment>INFO</comment>
+  </data>
+  <data name="Alert_Note_Title" xml:space="preserve">
+    <value>NOTA</value>
+    <comment>NOTE</comment>
+  </data>
+  <data name="Alert_Tip_Title" xml:space="preserve">
+    <value>CONSEJO</value>
+    <comment>TIP</comment>
+  </data>
+  <data name="API_AccessFilter_Label" xml:space="preserve">
+    <value>Acceso</value>
+    <comment>Access</comment>
+  </data>
+  <data name="API_ClassType_Name" xml:space="preserve">
+    <value>Clase</value>
+    <comment>Class</comment>
+  </data>
+  <data name="API_CopiedAckHint_Label" xml:space="preserve">
+    <value>¡Copiado!</value>
+    <comment>Copied!</comment>
+  </data>
+  <data name="API_CopyHint_Label" xml:space="preserve">
+    <value>Copiar</value>
+    <comment>Copy</comment>
+  </data>
+  <data name="API_CopyLinkHint_Label" xml:space="preserve">
+    <value>Copiar enlace</value>
+    <comment>Copy link</comment>
+  </data>
+  <data name="API_CopyNameHint_Label" xml:space="preserve">
+    <value>Copiar nombre</value>
+    <comment>Copy name</comment>
+  </data>
+  <data name="API_DefaultParameterValue_Label" xml:space="preserve">
+    <value>Valor predeterminado</value>
+    <comment>Default value</comment>
+  </data>
+  <data name="API_DelegateType_Name" xml:space="preserve">
+    <value>Delegado</value>
+    <comment>Delegate</comment>
+  </data>
+  <data name="API_EnumType_Name" xml:space="preserve">
+    <value>Enumeración</value>
+    <comment>Enum</comment>
+  </data>
+  <data name="API_EventGroup_Title" xml:space="preserve">
+    <value>Eventos</value>
+    <comment>Events</comment>
+  </data>
+  <data name="API_FieldGroup_Title" xml:space="preserve">
+    <value>Campos</value>
+    <comment>Fields</comment>
+  </data>
+  <data name="API_InheritedFilter_Label" xml:space="preserve">
+    <value>Heredado</value>
+    <comment>Inherited</comment>
+  </data>
+  <data name="API_InterfaceType_Name" xml:space="preserve">
+    <value>Interfaz</value>
+    <comment>Interface</comment>
+  </data>
+  <data name="API_MethodGroup_Title" xml:space="preserve">
+    <value>Métodos</value>
+    <comment>Methods</comment>
+  </data>
+  <data name="API_MoreDropdownItems_Label" xml:space="preserve">
+    <value>Más</value>
+    <comment>More</comment>
+  </data>
+  <data name="API_MoreOverloads_Label" xml:space="preserve">
+    <value>más</value>
+    <comment>more</comment>
+  </data>
+  <data name="API_OptionalParameter_Label" xml:space="preserve">
+    <value>opcional</value>
+    <comment>optional</comment>
+  </data>
+  <data name="API_ParameterSection_Label" xml:space="preserve">
+    <value>PARÁMETROS</value>
+    <comment>PARAMETERS</comment>
+  </data>
+  <data name="API_PropertyGroup_Title" xml:space="preserve">
+    <value>Propiedades</value>
+    <comment>Properties</comment>
+  </data>
+  <data name="API_ProtectedAccess_Name" xml:space="preserve">
+    <value>Protegido</value>
+    <comment>Protected</comment>
+  </data>
+  <data name="API_PublicAccess_Name" xml:space="preserve">
+    <value>Público</value>
+    <comment>Public</comment>
+  </data>
+  <data name="API_RecordType_Name" xml:space="preserve">
+    <value>Registro</value>
+    <comment>Record</comment>
+  </data>
+  <data name="API_SecurityAlert_Title" xml:space="preserve">
+    <value>Seguridad</value>
+    <comment>Security</comment>
+  </data>
+  <data name="API_SecurityNoteAlert_Title" xml:space="preserve">
+    <value>Nota de seguridad</value>
+    <comment>Security Note</comment>
+  </data>
+  <data name="API_SignatureSection_Label" xml:space="preserve">
+    <value>FIRMA</value>
+    <comment>SIGNATURE</comment>
+  </data>
+  <data name="API_StructType_Name" xml:space="preserve">
+    <value>Estructura</value>
+    <comment>Struct</comment>
+  </data>
+  <data name="API_TypeHierarchyPanel_Title" xml:space="preserve">
+    <value>Jerarquía</value>
+    <comment>Hierarchy</comment>
+  </data>
+  <data name="ContentFooter_NewerButton_Label" xml:space="preserve">
+    <value>Más nuevo</value>
+    <comment>Newer</comment>
+  </data>
+  <data name="ContentFooter_NextButton_Label" xml:space="preserve">
+    <value>Siguiente</value>
+    <comment>Next</comment>
+  </data>
+  <data name="ContentFooter_OlderButton_Label" xml:space="preserve">
+    <value>Más antiguo</value>
+    <comment>Older</comment>
+  </data>
+  <data name="ContentFooter_PrevButton_Label" xml:space="preserve">
+    <value>Anterior</value>
+    <comment>Previous</comment>
+  </data>
+  <data name="Editor_CancelButton_Label" xml:space="preserve">
+    <value>Cancelar</value>
+    <comment>Cancel</comment>
+  </data>
+  <data name="Editor_EditButton_Label" xml:space="preserve">
+    <value>Editar</value>
+    <comment>Edit</comment>
+  </data>
+  <data name="Editor_SaveButton_Label" xml:space="preserve">
+    <value>Guardar</value>
+    <comment>Save</comment>
+  </data>
+  <data name="Filter_NoMembersFound_Label" xml:space="preserve">
+    <value>No se encontraron nombres de miembros que contengan la consulta</value>
+    <comment>No member names found containing the query</comment>
+  </data>
+  <data name="History_AgoTime_Label" xml:space="preserve">
+    <value>hace</value>
+    <comment>ago</comment>
+  </data>
+  <data name="History_ClearLink_Label" xml:space="preserve">
+    <value>Borrar</value>
+    <comment>Clear</comment>
+  </data>
+  <data name="History_DayTime_Label" xml:space="preserve">
+    <value>día</value>
+    <comment>d</comment>
+  </data>
+  <data name="History_HourTime_Label" xml:space="preserve">
+    <value>h</value>
+    <comment>h</comment>
+  </data>
+  <data name="History_JustNowTime_Label" xml:space="preserve">
+    <value>ahora mismo</value>
+    <comment>just now</comment>
+  </data>
+  <data name="History_MinuteTime_Label" xml:space="preserve">
+    <value>min</value>
+    <comment>m</comment>
+  </data>
+  <data name="History_MonthTime_Label" xml:space="preserve">
+    <value>mes</value>
+    <comment>mo</comment>
+  </data>
+  <data name="History_NoHistory_Label" xml:space="preserve">
+    <value>No hay elementos en el historial</value>
+    <comment>No history items</comment>
+  </data>
+  <data name="History_SecondTime_Label" xml:space="preserve">
+    <value>s</value>
+    <comment>s</comment>
+  </data>
+  <data name="History_Title_Label" xml:space="preserve">
+    <value>Historial</value>
+    <comment>History</comment>
+  </data>
+  <data name="History_YearTime_Label" xml:space="preserve">
+    <value>año</value>
+    <comment>y</comment>
+  </data>
+  <data name="Note_Caution_Title" xml:space="preserve">
+    <value>Precaución</value>
+    <comment>Caution</comment>
+  </data>
+  <data name="Note_Important_Title" xml:space="preserve">
+    <value>Importante</value>
+    <comment>Important</comment>
+  </data>
+  <data name="Note_Note_Title" xml:space="preserve">
+    <value>Nota</value>
+    <comment>Note</comment>
+  </data>
+  <data name="Note_Tip_Title" xml:space="preserve">
+    <value>Consejo</value>
+    <comment>Tip</comment>
+  </data>
+  <data name="Note_Warning_Title" xml:space="preserve">
+    <value>Advertencia</value>
+    <comment>Warning</comment>
+  </data>
+  <data name="PageMeta_By_Label" xml:space="preserve">
+    <value>Por</value>
+    <comment>By</comment>
+  </data>
+  <data name="PageMeta_In_Label" xml:space="preserve">
+    <value>En</value>
+    <comment>In</comment>
+  </data>
+  <data name="PageMeta_Published_Label" xml:space="preserve">
+    <value>Publicado</value>
+    <comment>Published</comment>
+  </data>
+  <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
+    <value>Ir a la página de inicio</value>
+    <comment>Go to homepage</comment>
+  </data>
+  <data name="Page_404_MessageBody" xml:space="preserve">
+    <value>Puede haber escrito mal la dirección o la página puede haber sido movida.</value>
+    <comment>You may have mistyped the address or the page may have been moved.</comment>
+  </data>
+  <data name="Page_404_MessageTitle" xml:space="preserve">
+    <value>¡Vaya! La página que estás buscando no existe.</value>
+    <comment>Oops! The page you’re looking for doesn’t exist.</comment>
+  </data>
+  <data name="Page_404_Title" xml:space="preserve">
+    <value>No encontrado</value>
+    <comment>Not Found</comment>
+  </data>
+  <data name="Page_Blog_Title" xml:space="preserve">
+    <value>Blog</value>
+    <comment>Blog</comment>
+  </data>
+  <data name="Page_Categories_Title" xml:space="preserve">
+    <value>Categorías</value>
+    <comment>Categories</comment>
+  </data>
+  <data name="Page_Category_Categories_Label" xml:space="preserve">
+    <value>categorías</value>
+    <comment>categories</comment>
+  </data>
+  <data name="Page_Category_SeeAll_Label" xml:space="preserve">
+    <value>Ver todo</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Category_Title" xml:space="preserve">
+    <value>Categoría</value>
+    <comment>Category</comment>
+  </data>
+  <data name="Page_Docs_Title" xml:space="preserve">
+    <value>Documentos</value>
+    <comment>Docs</comment>
+  </data>
+  <data name="Page_Tags_Title" xml:space="preserve">
+    <value>Etiquetas</value>
+    <comment>Tags</comment>
+  </data>
+  <data name="Page_Tag_SeeAll_Label" xml:space="preserve">
+    <value>Ver todo</value>
+    <comment>See all</comment>
+  </data>
+  <data name="Page_Tag_Tags_Label" xml:space="preserve">
+    <value>etiquetas</value>
+    <comment>tags</comment>
+  </data>
+  <data name="Page_Tag_Title" xml:space="preserve">
+    <value>Etiqueta</value>
+    <comment>Tag</comment>
+  </data>
+  <data name="Page_Welcome_Title" xml:space="preserve">
+    <value>Bienvenido</value>
+    <comment>Welcome</comment>
+  </data>
+  <data name="Plugin_Edit_EditThisPage_Label" xml:space="preserve">
+    <value>Editar esta página</value>
+    <comment>Edit this page</comment>
+  </data>
+  <data name="PrivatePage_Password_Label" xml:space="preserve">
+    <value>Introduzca la contraseña:</value>
+    <comment>Enter password:</comment>
+  </data>
+  <data name="PrivatePage_Password_Title" xml:space="preserve">
+    <value>Esta página está protegida con contraseña</value>
+    <comment>This page is password protected</comment>
+  </data>
+  <data name="PrivatePage_Password_Unlock" xml:space="preserve">
+    <value>Desbloquear</value>
+    <comment>Unlock</comment>
+  </data>
+  <data name="PrivatePage_Password_Wrong" xml:space="preserve">
+    <value>¡Contraseña incorrecta!</value>
+    <comment>Wrong password!</comment>
+  </data>
+  <data name="Project_DefaultTitle_Value" xml:space="preserve">
+    <value>Nombre del Proyecto</value>
+    <comment>Project Name</comment>
+  </data>
+  <data name="Search_Input_Placeholder" xml:space="preserve">
+    <value>Buscar</value>
+    <comment>Search</comment>
+  </data>
+  <data name="Search_NoResults_Label" xml:space="preserve">
+    <value>Lo siento, no se encontraron resultados.</value>
+    <comment>Sorry, no results found.</comment>
+  </data>
+  <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
+    <value>Filtrar</value>
+    <comment>Filter</comment>
+  </data>
+  <data name="Toc_Contents_Label" xml:space="preserve">
+    <value>Contenidos</value>
+    <comment>Contents</comment>
+  </data>
+  <data name="Toc_RelatedClasses_Label" xml:space="preserve">
+    <value>Clases Relacionadas</value>
+    <comment>Related Classes</comment>
+  </data>
+  <data name="Toolbar_Access_Placeholder" xml:space="preserve">
+    <value>Acceso</value>
+    <comment>Access</comment>
+  </data>
+  <data name="Toolbar_Filters_Placeholder" xml:space="preserve">
+    <value>Filtros</value>
+    <comment>Filters</comment>
+  </data>
+  <data name="Toolbar_Filter_Placeholder" xml:space="preserve">
+    <value>Filtro</value>
+    <comment>Filter</comment>
+  </data>
+</root>
