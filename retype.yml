@@ -4,6 +4,8 @@ url: # Add your website address here
 branding:
   logo: /static/retype-logo.svg
   logoDark: /static/retype-logo-dark.svg
+edit:
+  repo: github.com/retypeapp/retype-translations
 links:
 - text: retype.com
   link: https://retype.com
