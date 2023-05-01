@@ -418,7 +418,7 @@
     <comment>Edit this page</comment>
   </data>
   <data name="PrivatePage_Password_Label" xml:space="preserve">
-    <value>Digite a senha:</value>
+    <value>Digite a palava-passe:</value>
     <comment>Enter password:</comment>
   </data>
   <data name="PrivatePage_Password_Title" xml:space="preserve">
