@@ -41,21 +41,21 @@ Directly editing the `.resx` XML files can be aggrevating, so we recommend using
 
 Any text editor will work or editing directly within GitHub is fine too.
 
-## Supported Languages
-
 Code | Language | Native name {class="compact"}
 ---  | --- | ---
 `ar` | Arabic | العربية
 `da` | Danish | Dansk
 `de` | German | Deutsch
-`en` (default) | English | English
+`en` [!badge variant="info" size="xs" text="default"] | English | English
 `es` | Spanish | Español
 `fi` | Finnish | Suomalainen
 `fr` | French | Français
 `hi` | Hindi | हिन्दी
 `hu` | Hungarian | Magyar
+`hy` [!badge variant="info" size="xs" text="as of v3.1"] | Armenian (Hayeren) | Հայերեն
 `it` | Italian | Italiano
 `ja` | Japanese | 日本語
+`kn` [!badge variant="info" size="xs" text="as of v3.1"] | Kannada | ಕನ್ನಡ
 `ko` | Korean | 한국어
 `nl` | Dutch | Nederlands
 `no` | Norwegian | Norsk
@@ -63,8 +63,10 @@ Code | Language | Native name {class="compact"}
 `pt-BR` | Brazilian Portuguese | Portuguese do Brasil
 `ro` | Romanian | Română
 `ru` | Russian | Русский
+`sa` [!badge variant="info" size="xs" text="as of v3.1"] | Sankrit (Saṁskṛtam) | संस्कृतम्
 `sv` | Swedish | Svenska
 `ta` | Tamil | தமிழ்
+`te` [!badge variant="info" size="xs" text="as of v3.1"] | Telugu | తెలుగు
 `th` | Thai | ไทย
 `tr` | Turkish | Türkçe
 `vi` | Vietnamese | Tiếng Việt
