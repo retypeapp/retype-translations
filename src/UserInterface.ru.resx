@@ -342,7 +342,7 @@
     <comment>Warning</comment>
   </data>
   <data name="PageMeta_By_Label" xml:space="preserve">
-    <value>Автор</value>
+    <value></value>
     <comment>By</comment>
   </data>
   <data name="PageMeta_In_Label" xml:space="preserve">
