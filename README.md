@@ -59,6 +59,7 @@ Code | Language | Native name {class="compact"}
 `ko` | Korean | 한국어
 `nl` | Dutch | Nederlands
 `no` | Norwegian | Norsk
+`pl` | Polish | Polski
 `pt` | Portuguese | Português
 `pt-BR` | Brazilian Portuguese | Portuguese do Brasil
 `ro` | Romanian | Română
