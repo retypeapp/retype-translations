@@ -118,355 +118,355 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Alert_Caution_Title" xml:space="preserve">
-    <value>CAUTION</value>
+    <value>ΠΡΟΣΟΧΗ</value>
     <comment>CAUTION</comment>
   </data>
   <data name="Alert_Danger_Title" xml:space="preserve">
-    <value>DANGER</value>
+    <value>ΚΙΝΔΥΝΟΣ</value>
     <comment>DANGER</comment>
   </data>
   <data name="Alert_Info_Title" xml:space="preserve">
-    <value>INFO</value>
+    <value>ΠΛΗΡΟΦΟΡΙΑ</value>
     <comment>INFO</comment>
   </data>
   <data name="Alert_Note_Title" xml:space="preserve">
-    <value>NOTE</value>
+    <value>ΣΗΜΕΙΩΣΗ</value>
     <comment>NOTE</comment>
   </data>
   <data name="Alert_Tip_Title" xml:space="preserve">
-    <value>TIP</value>
+    <value>ΣΥΜΒΟΥΛΗ</value>
     <comment>TIP</comment>
   </data>
   <data name="API_AccessFilter_Label" xml:space="preserve">
-    <value>Access</value>
+    <value>Πρόσβαση</value>
     <comment>Access</comment>
   </data>
   <data name="API_ClassType_Name" xml:space="preserve">
-    <value>Class</value>
+    <value>Κλάση</value>
     <comment>Class</comment>
   </data>
   <data name="API_CopiedAckHint_Label" xml:space="preserve">
-    <value>Copied!</value>
+    <value>Αντιγράφηκε!</value>
     <comment>Copied!</comment>
   </data>
   <data name="API_CopyHint_Label" xml:space="preserve">
-    <value>Copy</value>
+    <value>Αντιγραφή</value>
     <comment>Copy</comment>
   </data>
   <data name="API_CopyLinkHint_Label" xml:space="preserve">
-    <value>Copy link</value>
+    <value>Αντιγραφή συνδέσμου</value>
     <comment>Copy link</comment>
   </data>
   <data name="API_CopyNameHint_Label" xml:space="preserve">
-    <value>Copy name</value>
+    <value>Αντιγραφή ονόματος</value>
     <comment>Copy name</comment>
   </data>
   <data name="API_DefaultParameterValue_Label" xml:space="preserve">
-    <value>Default value</value>
+    <value>Προεπιλεγμένη τιμή</value>
     <comment>Default value</comment>
   </data>
   <data name="API_DelegateType_Name" xml:space="preserve">
-    <value>Delegate</value>
+    <value>Αντιπρόσωπος</value>
     <comment>Delegate</comment>
   </data>
   <data name="API_EnumType_Name" xml:space="preserve">
-    <value>Enum</value>
+    <value>Απαρίθμηση</value>
     <comment>Enum</comment>
   </data>
   <data name="API_EventGroup_Title" xml:space="preserve">
-    <value>Events</value>
+    <value>Συμβάντα</value>
     <comment>Events</comment>
   </data>
   <data name="API_FieldGroup_Title" xml:space="preserve">
-    <value>Fields</value>
+    <value>Πεδία</value>
     <comment>Fields</comment>
   </data>
   <data name="API_InheritedFilter_Label" xml:space="preserve">
-    <value>Inherited</value>
+    <value>Κληρονομημένο</value>
     <comment>Inherited</comment>
   </data>
   <data name="API_InterfaceType_Name" xml:space="preserve">
-    <value>Interface</value>
+    <value>Διεπαφή</value>
     <comment>Interface</comment>
   </data>
   <data name="API_MethodGroup_Title" xml:space="preserve">
-    <value>Methods</value>
+    <value>Μέθοδοι</value>
     <comment>Methods</comment>
   </data>
   <data name="API_MoreDropdownItems_Label" xml:space="preserve">
-    <value>More</value>
+    <value>Περισσότερα</value>
     <comment>More</comment>
   </data>
   <data name="API_MoreOverloads_Label" xml:space="preserve">
-    <value>more</value>
+    <value>περισσότερα</value>
     <comment>more</comment>
   </data>
   <data name="API_OptionalParameter_Label" xml:space="preserve">
-    <value>optional</value>
+    <value>προαιρετικό</value>
     <comment>optional</comment>
   </data>
   <data name="API_ParameterSection_Label" xml:space="preserve">
-    <value>PARAMETERS</value>
+    <value>ΠΑΡΑΜΕΤΡΟΙ</value>
     <comment>PARAMETERS</comment>
   </data>
   <data name="API_PropertyGroup_Title" xml:space="preserve">
-    <value>Properties</value>
+    <value>Ιδιότητες</value>
     <comment>Properties</comment>
   </data>
   <data name="API_ProtectedAccess_Name" xml:space="preserve">
-    <value>Protected</value>
+    <value>Προστατευμένο</value>
     <comment>Protected</comment>
   </data>
   <data name="API_PublicAccess_Name" xml:space="preserve">
-    <value>Public</value>
+    <value>Δημόσιο</value>
     <comment>Public</comment>
   </data>
   <data name="API_RecordType_Name" xml:space="preserve">
-    <value>Record</value>
+    <value>Εγγραφή</value>
     <comment>Record</comment>
   </data>
   <data name="API_SecurityAlert_Title" xml:space="preserve">
-    <value>Security</value>
+    <value>Ασφάλεια</value>
     <comment>Security</comment>
   </data>
   <data name="API_SecurityNoteAlert_Title" xml:space="preserve">
-    <value>Security Note</value>
+    <value>Σημείωση ασφαλείας</value>
     <comment>Security Note</comment>
   </data>
   <data name="API_SignatureSection_Label" xml:space="preserve">
-    <value>SIGNATURE</value>
+    <value>ΥΠΟΓΡΑΦΗ</value>
     <comment>SIGNATURE</comment>
   </data>
   <data name="API_StructType_Name" xml:space="preserve">
-    <value>Struct</value>
+    <value>Δομή</value>
     <comment>Struct</comment>
   </data>
   <data name="API_TypeHierarchyPanel_Title" xml:space="preserve">
-    <value>Hierarchy</value>
+    <value>Ιεραρχία</value>
     <comment>Hierarchy</comment>
   </data>
   <data name="ContentFooter_NewerButton_Label" xml:space="preserve">
-    <value>Newer</value>
+    <value>Νεότερο</value>
     <comment>Newer</comment>
   </data>
   <data name="ContentFooter_NextButton_Label" xml:space="preserve">
-    <value>Next</value>
+    <value>Επόμενο</value>
     <comment>Next</comment>
   </data>
   <data name="ContentFooter_OlderButton_Label" xml:space="preserve">
-    <value>Older</value>
+    <value>Παλαιότερο</value>
     <comment>Older</comment>
   </data>
   <data name="ContentFooter_PrevButton_Label" xml:space="preserve">
-    <value>Previous</value>
+    <value>Προηγούμενο</value>
     <comment>Previous</comment>
   </data>
   <data name="Editor_CancelButton_Label" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Άκυρο</value>
     <comment>Cancel</comment>
   </data>
   <data name="Editor_EditButton_Label" xml:space="preserve">
-    <value>Edit</value>
+    <value>Επεξεργασία</value>
     <comment>Edit</comment>
   </data>
   <data name="Editor_SaveButton_Label" xml:space="preserve">
-    <value>Save</value>
+    <value>Αποθήκευση</value>
     <comment>Save</comment>
   </data>
   <data name="Filter_NoMembersFound_Label" xml:space="preserve">
-    <value>No member names found containing the query</value>
+    <value>Δεν βρέθηκαν ονόματα μελών που περιέχουν το ερώτημα</value>
     <comment>No member names found containing the query</comment>
   </data>
   <data name="History_AgoTime_Label" xml:space="preserve">
-    <value>ago</value>
+    <value>πριν</value>
     <comment>ago</comment>
   </data>
   <data name="History_ClearLink_Label" xml:space="preserve">
-    <value>Clear</value>
+    <value>Καθαρισμός</value>
     <comment>Clear</comment>
   </data>
   <data name="History_DayTime_Label" xml:space="preserve">
-    <value>d</value>
+    <value>ημ</value>
     <comment>d</comment>
   </data>
   <data name="History_HourTime_Label" xml:space="preserve">
-    <value>h</value>
+    <value>ώ</value>
     <comment>h</comment>
   </data>
   <data name="History_JustNowTime_Label" xml:space="preserve">
-    <value>just now</value>
+    <value>μόλις τώρα</value>
     <comment>just now</comment>
   </data>
   <data name="History_MinuteTime_Label" xml:space="preserve">
-    <value>m</value>
+    <value>λ</value>
     <comment>m</comment>
   </data>
   <data name="History_MonthTime_Label" xml:space="preserve">
-    <value>mo</value>
+    <value>μήν</value>
     <comment>mo</comment>
   </data>
   <data name="History_NoHistory_Label" xml:space="preserve">
-    <value>No history items</value>
+    <value>Κανένα στοιχείο ιστορικού</value>
     <comment>No history items</comment>
   </data>
   <data name="History_SecondTime_Label" xml:space="preserve">
-    <value>s</value>
+    <value>δ</value>
     <comment>s</comment>
   </data>
   <data name="History_Title_Label" xml:space="preserve">
-    <value>History</value>
+    <value>Ιστορικό</value>
     <comment>History</comment>
   </data>
   <data name="History_YearTime_Label" xml:space="preserve">
-    <value>y</value>
+    <value>έτ</value>
     <comment>y</comment>
   </data>
   <data name="Note_Caution_Title" xml:space="preserve">
-    <value>Caution</value>
+    <value>Προσοχή</value>
     <comment>Caution</comment>
   </data>
   <data name="Note_Important_Title" xml:space="preserve">
-    <value>Important</value>
+    <value>Σημαντικό</value>
     <comment>Important</comment>
   </data>
   <data name="Note_Note_Title" xml:space="preserve">
-    <value>Note</value>
+    <value>Σημείωση</value>
     <comment>Note</comment>
   </data>
   <data name="Note_Tip_Title" xml:space="preserve">
-    <value>Tip</value>
+    <value>Συμβουλή</value>
     <comment>Tip</comment>
   </data>
   <data name="Note_Warning_Title" xml:space="preserve">
-    <value>Warning</value>
+    <value>Προειδοποίηση</value>
     <comment>Warning</comment>
   </data>
   <data name="PageMeta_By_Label" xml:space="preserve">
-    <value>By</value>
+    <value>Από</value>
     <comment>By</comment>
   </data>
   <data name="PageMeta_In_Label" xml:space="preserve">
-    <value>In</value>
+    <value>σε</value>
     <comment>In</comment>
   </data>
   <data name="PageMeta_Published_Label" xml:space="preserve">
-    <value>Published</value>
+    <value>Δημοσιεύθηκε</value>
     <comment>Published</comment>
   </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
-    <value>Go to homepage</value>
+    <value>Μετάβαση στην αρχική σελίδα</value>
     <comment>Go to homepage</comment>
   </data>
   <data name="Page_404_MessageBody" xml:space="preserve">
-    <value>You may have mistyped the address or the page may have been moved.</value>
+    <value>Μπορεί να πληκτρολογήσατε λάθος τη διεύθυνση ή η σελίδα ίσως έχει μετακινηθεί.</value>
     <comment>You may have mistyped the address or the page may have been moved.</comment>
   </data>
   <data name="Page_404_MessageTitle" xml:space="preserve">
-    <value>Oops! The page you’re looking for doesn’t exist.</value>
+    <value>Ουπς! Η σελίδα που ψάχνετε δεν υπάρχει.</value>
     <comment>Oops! The page you’re looking for doesn’t exist.</comment>
   </data>
   <data name="Page_404_Title" xml:space="preserve">
-    <value>Not Found</value>
+    <value>Δεν βρέθηκε</value>
     <comment>Not Found</comment>
   </data>
   <data name="Page_Blog_Title" xml:space="preserve">
-    <value>Blog</value>
+    <value>Ιστολόγιο</value>
     <comment>Blog</comment>
   </data>
   <data name="Page_Categories_Title" xml:space="preserve">
-    <value>Categories</value>
+    <value>Κατηγορίες</value>
     <comment>Categories</comment>
   </data>
   <data name="Page_Category_Categories_Label" xml:space="preserve">
-    <value>categories</value>
+    <value>κατηγορίες</value>
     <comment>categories</comment>
   </data>
   <data name="Page_Category_SeeAll_Label" xml:space="preserve">
-    <value>See all</value>
+    <value>Δείτε όλα</value>
     <comment>See all</comment>
   </data>
   <data name="Page_Category_Title" xml:space="preserve">
-    <value>Category</value>
+    <value>Κατηγορία</value>
     <comment>Category</comment>
   </data>
   <data name="Page_Docs_Title" xml:space="preserve">
-    <value>Docs</value>
+    <value>Τεκμηρίωση</value>
     <comment>Docs</comment>
   </data>
   <data name="Page_Tags_Title" xml:space="preserve">
-    <value>Tags</value>
+    <value>Ετικέτες</value>
     <comment>Tags</comment>
   </data>
   <data name="Page_Tag_SeeAll_Label" xml:space="preserve">
-    <value>See all</value>
+    <value>Δείτε όλα</value>
     <comment>See all</comment>
   </data>
   <data name="Page_Tag_Tags_Label" xml:space="preserve">
-    <value>tags</value>
+    <value>ετικέτες</value>
     <comment>tags</comment>
   </data>
   <data name="Page_Tag_Title" xml:space="preserve">
-    <value>Tag</value>
+    <value>Ετικέτα</value>
     <comment>Tag</comment>
   </data>
   <data name="Page_Welcome_Title" xml:space="preserve">
-    <value>Welcome</value>
+    <value>Καλώς ορίσατε</value>
     <comment>Welcome</comment>
   </data>
   <data name="Plugin_Edit_EditThisPage_Label" xml:space="preserve">
-    <value>Edit this page</value>
+    <value>Επεξεργαστείτε αυτή τη σελίδα</value>
     <comment>Edit this page</comment>
   </data>
   <data name="PrivatePage_Password_Label" xml:space="preserve">
-    <value>Enter password:</value>
+    <value>Εισαγάγετε τον κωδικό:</value>
     <comment>Enter password:</comment>
   </data>
   <data name="PrivatePage_Password_Title" xml:space="preserve">
-    <value>This page is password protected</value>
+    <value>Αυτή η σελίδα προστατεύεται με κωδικό</value>
     <comment>This page is password protected</comment>
   </data>
   <data name="PrivatePage_Password_Unlock" xml:space="preserve">
-    <value>Unlock</value>
+    <value>Ξεκλείδωμα</value>
     <comment>Unlock</comment>
   </data>
   <data name="PrivatePage_Password_Wrong" xml:space="preserve">
-    <value>Wrong password!</value>
+    <value>Λάθος κωδικός!</value>
     <comment>Wrong password!</comment>
   </data>
   <data name="Project_DefaultTitle_Value" xml:space="preserve">
-    <value>Project Name</value>
+    <value>Όνομα έργου</value>
     <comment>Project Name</comment>
   </data>
   <data name="Search_Input_Placeholder" xml:space="preserve">
-    <value>Search</value>
+    <value>Αναζήτηση</value>
     <comment>Search</comment>
   </data>
   <data name="Search_NoResults_Label" xml:space="preserve">
-    <value>Sorry, no results found.</value>
+    <value>Δυστυχώς, δεν βρέθηκαν αποτελέσματα.</value>
     <comment>Sorry, no results found.</comment>
   </data>
   <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
-    <value>Filter</value>
+    <value>Φιλτράρετε</value>
     <comment>Filter</comment>
   </data>
   <data name="Toc_Contents_Label" xml:space="preserve">
-    <value>Contents</value>
+    <value>Περιεχόμενα</value>
     <comment>Contents</comment>
   </data>
   <data name="Toc_RelatedClasses_Label" xml:space="preserve">
-    <value>Related Classes</value>
+    <value>Σχετικές κλάσεις</value>
     <comment>Related Classes</comment>
   </data>
   <data name="Toolbar_Access_Placeholder" xml:space="preserve">
-    <value>Access</value>
+    <value>Πρόσβαση</value>
     <comment>Access</comment>
   </data>
   <data name="Toolbar_Filters_Placeholder" xml:space="preserve">
-    <value>Filters</value>
+    <value>Φίλτρα</value>
     <comment>Filters</comment>
   </data>
   <data name="Toolbar_Filter_Placeholder" xml:space="preserve">
-    <value>Filter</value>
+    <value>Φίλτρο</value>
     <comment>Filter</comment>
   </data>
 </root>
