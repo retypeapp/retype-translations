@@ -118,7 +118,7 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="Alert_Caution_Title" xml:space="preserve">
-    <value>PRECAUÇÃO</value>
+    <value>CUIDADO</value>
     <comment>CAUTION</comment>
   </data>
   <data name="Alert_Danger_Title" xml:space="preserve">
@@ -126,7 +126,7 @@
     <comment>DANGER</comment>
   </data>
   <data name="Alert_Info_Title" xml:space="preserve">
-    <value>INFORMAÇÃO</value>
+    <value>INFO</value>
     <comment>INFO</comment>
   </data>
   <data name="Alert_Note_Title" xml:space="preserve">
@@ -234,7 +234,7 @@
     <comment>Security Note</comment>
   </data>
   <data name="API_SignatureSection_Label" xml:space="preserve">
-    <value>SIGNATURE</value>
+    <value>ASSINATURA</value>
     <comment>SIGNATURE</comment>
   </data>
   <data name="API_StructType_Name" xml:space="preserve">
@@ -254,7 +254,7 @@
     <comment>Next</comment>
   </data>
   <data name="ContentFooter_OlderButton_Label" xml:space="preserve">
-    <value>Mais antigo</value>
+    <value>Anterior</value>
     <comment>Older</comment>
   </data>
   <data name="ContentFooter_PrevButton_Label" xml:space="preserve">
@@ -298,15 +298,15 @@
     <comment>just now</comment>
   </data>
   <data name="History_MinuteTime_Label" xml:space="preserve">
-    <value>m</value>
+    <value>min</value>
     <comment>m</comment>
   </data>
   <data name="History_MonthTime_Label" xml:space="preserve">
-    <value>mes</value>
+    <value>mo</value>
     <comment>mo</comment>
   </data>
   <data name="History_NoHistory_Label" xml:space="preserve">
-    <value>Sem histórico</value>
+    <value>Nenhum item de histórico</value>
     <comment>No history items</comment>
   </data>
   <data name="History_SecondTime_Label" xml:space="preserve">
@@ -338,7 +338,7 @@
     <comment>Tip</comment>
   </data>
   <data name="Note_Warning_Title" xml:space="preserve">
-    <value>Aviso</value>
+    <value>Alerta</value>
     <comment>Warning</comment>
   </data>
   <data name="PageMeta_By_Label" xml:space="preserve">
@@ -358,15 +358,15 @@
     <comment>Go to homepage</comment>
   </data>
   <data name="Page_404_MessageBody" xml:space="preserve">
-    <value>Você pode ter digitado o endereço incorretamente ou a página pode ter sido movida.</value>
+    <value>Você pode ter digitado o endereço errado ou a página pode ter sido movida.</value>
     <comment>You may have mistyped the address or the page may have been moved.</comment>
   </data>
   <data name="Page_404_MessageTitle" xml:space="preserve">
-    <value>Ops! A página que você está procurando não existe.</value>
+    <value>Ops! A página que você procura não existe.</value>
     <comment>Oops! The page you’re looking for doesn’t exist.</comment>
   </data>
   <data name="Page_404_Title" xml:space="preserve">
-    <value>Não encontrado</value>
+    <value>Não Encontrado</value>
     <comment>Not Found</comment>
   </data>
   <data name="Page_Blog_Title" xml:space="preserve">
@@ -390,7 +390,7 @@
     <comment>Category</comment>
   </data>
   <data name="Page_Docs_Title" xml:space="preserve">
-    <value>Documentos</value>
+    <value>Docs</value>
     <comment>Docs</comment>
   </data>
   <data name="Page_Tags_Title" xml:space="preserve">
@@ -418,55 +418,55 @@
     <comment>Edit this page</comment>
   </data>
   <data name="PrivatePage_Password_Label" xml:space="preserve">
-    <value>Digite a senha:</value>
+    <value>Informe a senha:</value>
     <comment>Enter password:</comment>
   </data>
   <data name="PrivatePage_Password_Title" xml:space="preserve">
-    <value>Esta página está protegida por senha</value>
-    <comment>Esta página está protegida por senha</comment>
+    <value>Esta página é protegida por senha</value>
+    <comment>This page is password protected</comment>
   </data>
   <data name="PrivatePage_Password_Unlock" xml:space="preserve">
     <value>Desbloquear</value>
-    <comment>Desbloquear</comment>
+    <comment>Unlock</comment>
   </data>
   <data name="PrivatePage_Password_Wrong" xml:space="preserve">
     <value>Senha incorreta!</value>
-    <comment>Senha incorreta!</comment>
+    <comment>Wrong password!</comment>
   </data>
   <data name="Project_DefaultTitle_Value" xml:space="preserve">
     <value>Nome do Projeto</value>
-    <comment>Nome do Projeto</comment>
+    <comment>Project Name</comment>
   </data>
   <data name="Search_Input_Placeholder" xml:space="preserve">
     <value>Pesquisar</value>
-    <comment>Pesquisar</comment>
+    <comment>Search</comment>
   </data>
   <data name="Search_NoResults_Label" xml:space="preserve">
     <value>Desculpe, nenhum resultado encontrado.</value>
-    <comment>Desculpe, nenhum resultado encontrado.</comment>
+    <comment>Sorry, no results found.</comment>
   </data>
   <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
     <value>Filtrar</value>
-    <comment>Filtrar</comment>
+    <comment>Filter</comment>
   </data>
   <data name="Toc_Contents_Label" xml:space="preserve">
     <value>Conteúdo</value>
-    <comment>Conteúdo</comment>
+    <comment>Contents</comment>
   </data>
   <data name="Toc_RelatedClasses_Label" xml:space="preserve">
-    <value>Classes relacionadas</value>
-    <comment>Classes relacionadas</comment>
+    <value>Classes Relacionadas</value>
+    <comment>Related Classes</comment>
   </data>
   <data name="Toolbar_Access_Placeholder" xml:space="preserve">
     <value>Acesso</value>
-    <comment>Acesso</comment>
+    <comment>Access</comment>
   </data>
   <data name="Toolbar_Filters_Placeholder" xml:space="preserve">
     <value>Filtros</value>
-    <comment>Filtros</comment>
+    <comment>Filters</comment>
   </data>
   <data name="Toolbar_Filter_Placeholder" xml:space="preserve">
-    <value>Filtrar</value>
-    <comment>Filtrar</comment>
+    <value>Filtro</value>
+    <comment>Filter</comment>
   </data>
 </root>
