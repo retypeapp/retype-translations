@@ -50,6 +50,7 @@ Code | Language | Native name {class="compact"}
 `es` | Spanish | Español
 `fi` | Finnish | Suomalainen
 `fr` | French | Français
+`he` [!badge variant="info" size="xs" text="as of v3.7"] | Hebrew ((Ivrit)) | עברית
 `hi` | Hindi | हिन्दी
 `hu` | Hungarian | Magyar
 `hy` [!badge variant="info" size="xs" text="as of v3.1"] | Armenian (Hayeren) | Հայերեն
