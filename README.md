@@ -57,8 +57,8 @@ Code | Language | Native name {class="compact"}
 `ja` | Japanese | 日本語
 `kn` [!badge variant="info" size="xs" text="as of v3.1"] | Kannada | ಕನ್ನಡ
 `ko` | Korean | 한국어
+`nb` | Norwegian (Bokmål) | Norsk (Bokmål)
 `nl` | Dutch | Nederlands
-`no` | Norwegian | Norsk
 `pt` | Portuguese | Português
 `pt-BR` | Brazilian Portuguese | Portuguese do Brasil
 `ro` | Romanian | Română
