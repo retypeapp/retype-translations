@@ -61,8 +61,8 @@ Code | Language | Native name {class="compact"}
 `ko` | Korean | 한국어
 `nb` | Norwegian (Bokmål) | Norsk (Bokmål)
 `nl` | Dutch | Nederlands
-`pt` | Portuguese | Português
-`pt-BR` | Brazilian Portuguese | Portuguese do Brasil
+`pt` | Portuguese (Brazil) | Português (Brasil)
+`pt-PT` | Portuguese (Portugal) | Português (Portugal)
 `ro` | Romanian | Română
 `ru` | Russian | Русский
 `sa` [!badge variant="info" size="xs" text="as of v3.1"] | Sankrit (Saṁskṛtam) | संस्कृतम्
