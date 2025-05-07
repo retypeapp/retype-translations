@@ -19,7 +19,7 @@ View this page [online](https://retypeapp.github.io/retype-translations/).
 The following sample from the French translation file is a typical `<data>` node:
 
 ```xml
-  <data name="Alert_Caution_Title" xml:space="preserve">
+  <data name="Callout_Caution_Title" xml:space="preserve">
     <value>ATTENTION</value>
     <comment>CAUTION</comment>
   </data>

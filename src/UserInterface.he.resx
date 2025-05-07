@@ -117,23 +117,23 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Alert_Caution_Title" xml:space="preserve">
+  <data name="Callout_Caution_Title" xml:space="preserve">
     <value>זהירות</value>
     <comment>CAUTION</comment>
   </data>
-  <data name="Alert_Danger_Title" xml:space="preserve">
+  <data name="Callout_Danger_Title" xml:space="preserve">
     <value>סכנה</value>
     <comment>DANGER</comment>
   </data>
-  <data name="Alert_Info_Title" xml:space="preserve">
+  <data name="Callout_Info_Title" xml:space="preserve">
     <value>מידע</value>
     <comment>INFO</comment>
   </data>
-  <data name="Alert_Note_Title" xml:space="preserve">
+  <data name="Callout_Note_Title" xml:space="preserve">
     <value>הערה</value>
     <comment>NOTE</comment>
   </data>
-  <data name="Alert_Tip_Title" xml:space="preserve">
+  <data name="Callout_Tip_Title" xml:space="preserve">
     <value>עצה</value>
     <comment>TIP</comment>
   </data>

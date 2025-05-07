@@ -1,11 +1,15 @@
 input: .
 output: .retype
-url: # Add your website address here
+
+url: https://retypeapp.github.io/retype-translations/
+
 branding:
   logo: /static/retype-logo.svg
   logoDark: /static/retype-logo-dark.svg
+
 edit:
   repo: github.com/retypeapp/retype-translations
+
 links:
 - text: Retype website
   link: https://retype.com
@@ -13,5 +17,6 @@ links:
 - text: GitHub
   link: https://github.com/retypeapp/retype-translations
   icon: mark-github
+
 footer:
   copyright: "&copy; Copyright {{ year }}. All rights reserved."
