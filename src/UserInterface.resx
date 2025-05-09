@@ -321,6 +321,10 @@
     <value>y</value>
     <comment>y</comment>
   </data>
+  <data name="Note_Question_Title" xml:space="preserve">
+    <value>Question</value>
+    <comment>Question</comment>
+  </data>
   <data name="Note_Caution_Title" xml:space="preserve">
     <value>Caution</value>
     <comment>Caution</comment>

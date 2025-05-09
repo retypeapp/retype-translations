@@ -333,6 +333,10 @@
     <value>Nota</value>
     <comment>Note</comment>
   </data>
+  <data name="Note_Question_Title" xml:space="preserve">
+    <value>Pregunta</value>
+    <comment>Question</comment>
+  </data>
   <data name="Note_Tip_Title" xml:space="preserve">
     <value>Consejo</value>
     <comment>Tip</comment>

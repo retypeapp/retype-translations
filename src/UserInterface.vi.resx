@@ -333,6 +333,10 @@
     <value>Ghi chú</value>
     <comment>Note</comment>
   </data>
+  <data name="Note_Question_Title" xml:space="preserve">
+    <value>Câu hỏi</value>
+    <comment>Question</comment>
+  </data>
   <data name="Note_Tip_Title" xml:space="preserve">
     <value>Mẹo</value>
     <comment>Tip</comment>

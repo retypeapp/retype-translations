@@ -333,6 +333,10 @@
     <value>메모</value>
     <comment>Note</comment>
   </data>
+  <data name="Note_Question_Title" xml:space="preserve">
+    <value>질문</value>
+    <comment>Question</comment>
+  </data>
   <data name="Note_Tip_Title" xml:space="preserve">
     <value>팁</value>
     <comment>Tip</comment>

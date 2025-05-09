@@ -321,7 +321,11 @@
     <value>a</value>
     <comment>y</comment>
   </data>
-    <data name="Note_Caution_Title" xml:space="preserve">
+  <data name="Note_Question_Title" xml:space="preserve">
+    <value>Întrebare</value>
+    <comment>Question</comment>
+  </data>
+  <data name="Note_Caution_Title" xml:space="preserve">
     <value>Atenție</value>
     <comment>Caution</comment>
   </data>
