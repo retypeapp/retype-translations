@@ -357,6 +357,10 @@
     <value>게시된</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>세부 정보</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>홈페이지로 이동</value>
     <comment>Go to homepage</comment>

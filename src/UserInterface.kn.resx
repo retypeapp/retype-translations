@@ -357,6 +357,10 @@
     <value>ಪ್ರಕಟಿಸಲಾಗಿದೆ</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>ವಿವರಗಳು</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>ಮುಖಪುಟಕೆ ಹೋಗಿ</value>
     <comment>Go to homepage</comment>

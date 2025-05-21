@@ -357,6 +357,10 @@
     <value>Julkaistu</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>Tiedot</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>Siirry etusivulle</value>
     <comment>Go to homepage</comment>

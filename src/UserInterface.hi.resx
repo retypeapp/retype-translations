@@ -357,6 +357,10 @@
     <value>प्रकाशित</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>विवरण</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>होमपेज पर जाएँ</value>
     <comment>Go to homepage</comment>

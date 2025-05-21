@@ -357,6 +357,10 @@
     <value>Gepubliceerd</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>Details</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>Ga naar de homepage</value>
     <comment>Go to homepage</comment>

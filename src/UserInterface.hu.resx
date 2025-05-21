@@ -357,6 +357,10 @@
     <value>Közzétéve</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>Részletek</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>Ugrás a kezdőlapra</value>
     <comment>Go to homepage</comment>

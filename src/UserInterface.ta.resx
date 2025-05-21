@@ -357,6 +357,10 @@
     <value>வெளியிடப்பட்டது</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>விவரங்கள்</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>முகப்புக்கு செல்</value>
     <comment>Go to homepage</comment>

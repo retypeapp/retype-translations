@@ -357,6 +357,10 @@
     <value>Δημοσιεύθηκε</value>
     <comment>Published</comment>
   </data>
+  <data name="Panel_Title_Details" xml:space="preserve">
+    <value>Λεπτομέρειες</value>
+    <comment>Details</comment>
+  </data>
   <data name="Page_404_GoToHomeButton_Label" xml:space="preserve">
     <value>Μετάβαση στην αρχική σελίδα</value>
     <comment>Go to homepage</comment>
