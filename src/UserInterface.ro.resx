@@ -477,4 +477,16 @@
     <value>Filtru</value>
     <comment>Filter</comment>
   </data>
+  <data name="Text-Light" xml:space="preserve">
+    <value>Deschis</value>
+    <comment>Light</comment>
+  </data>
+  <data name="Text-Dark" xml:space="preserve">
+    <value>Întunecat</value>
+    <comment>Dark</comment>
+  </data>
+  <data name="Text-System" xml:space="preserve">
+    <value>Sistem</value>
+    <comment>System</comment>
+  </data>
 </root>

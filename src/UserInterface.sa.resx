@@ -477,4 +477,16 @@
     <value>परिसीवनम्</value>
     <comment>Filter</comment>
   </data>
+  <data name="Text-Light" xml:space="preserve">
+    <value>शुक्लम्</value>
+    <comment>Light</comment>
+  </data>
+  <data name="Text-Dark" xml:space="preserve">
+    <value>कृष्णम्</value>
+    <comment>Dark</comment>
+  </data>
+  <data name="Text-System" xml:space="preserve">
+    <value>तन्त्रम्</value>
+    <comment>System</comment>
+  </data>
 </root>

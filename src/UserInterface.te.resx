@@ -477,4 +477,16 @@
     <value>వడపోత</value>
     <comment>Filter</comment>
   </data>
+  <data name="Text-Light" xml:space="preserve">
+    <value>లేత</value>
+    <comment>Light</comment>
+  </data>
+  <data name="Text-Dark" xml:space="preserve">
+    <value>ముదురు</value>
+    <comment>Dark</comment>
+  </data>
+  <data name="Text-System" xml:space="preserve">
+    <value>వ్యవస్థ</value>
+    <comment>System</comment>
+  </data>
 </root>

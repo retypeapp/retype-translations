@@ -477,4 +477,16 @@
     <value>Φίλτρο</value>
     <comment>Filter</comment>
   </data>
+  <data name="Text-Light" xml:space="preserve">
+    <value>Ανοιχτό</value>
+    <comment>Light</comment>
+  </data>
+  <data name="Text-Dark" xml:space="preserve">
+    <value>Σκούρο</value>
+    <comment>Dark</comment>
+  </data>
+  <data name="Text-System" xml:space="preserve">
+    <value>Σύστημα</value>
+    <comment>System</comment>
+  </data>
 </root>

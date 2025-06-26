@@ -477,4 +477,16 @@
     <value>फ़िल्टर</value>
     <comment>Filter</comment>
   </data>
+  <data name="Text-Light" xml:space="preserve">
+    <value>हल्का</value>
+    <comment>Light</comment>
+  </data>
+  <data name="Text-Dark" xml:space="preserve">
+    <value>गहरा</value>
+    <comment>Dark</comment>
+  </data>
+  <data name="Text-System" xml:space="preserve">
+    <value>सिस्टम</value>
+    <comment>System</comment>
+  </data>
 </root>
