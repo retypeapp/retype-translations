@@ -490,7 +490,7 @@
     <comment>System</comment>
   </data>
   <data name="Backlinks_Title" xml:space="preserve">
-    <value>引用来源</value>
-    <comment>Referenced by</comment>
+    <value>另请参阅</value>
+    <comment>See also</comment>
   </data>
 </root>

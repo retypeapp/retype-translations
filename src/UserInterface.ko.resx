@@ -490,7 +490,7 @@
     <comment>System</comment>
   </data>
   <data name="Backlinks_Title" xml:space="preserve">
-    <value>참조됨</value>
-    <comment>Referenced by</comment>
+    <value>같이 보기</value>
+    <comment>See also</comment>
   </data>
 </root>

@@ -490,7 +490,7 @@
     <comment>System</comment>
   </data>
   <data name="Backlinks_Title" xml:space="preserve">
-    <value>குறிப்பிடப்பட்டது</value>
-    <comment>Referenced by</comment>
+    <value>இதையும் பார்க்கவும்</value>
+    <comment>See also</comment>
   </data>
 </root>
