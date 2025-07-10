@@ -477,19 +477,19 @@
     <value>Filtro</value>
     <comment>Filter</comment>
   </data>
-  <data name="Text-Light" xml:space="preserve">
+  <data name="Text_Light" xml:space="preserve">
     <value>Chiaro</value>
     <comment>Light</comment>
   </data>
-  <data name="Text-Dark" xml:space="preserve">
+  <data name="Text_Dark" xml:space="preserve">
     <value>Scuro</value>
     <comment>Dark</comment>
   </data>
-  <data name="Text-System" xml:space="preserve">
+  <data name="Text_System" xml:space="preserve">
     <value>Sistema</value>
     <comment>System</comment>
   </data>
-  <data name="Backlinks-Title" xml:space="preserve">
+  <data name="Backlinks_Title" xml:space="preserve">
     <value>Referenziato da</value>
     <comment>Referenced by</comment>
   </data>
