@@ -489,4 +489,8 @@
     <value>Rendszer</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>Hivatkozva innen</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

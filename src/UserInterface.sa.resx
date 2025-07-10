@@ -489,4 +489,8 @@
     <value>तन्त्रम्</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>निर्देशितम्</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

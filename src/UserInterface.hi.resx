@@ -489,4 +489,8 @@
     <value>सिस्टम</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>द्वारा संदर्भित</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

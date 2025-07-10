@@ -489,4 +489,8 @@
     <value>מערכת</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>מוזכר על ידי</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

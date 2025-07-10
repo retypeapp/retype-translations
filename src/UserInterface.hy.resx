@@ -489,4 +489,8 @@
     <value>Համակարգ</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>Հղվում է</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

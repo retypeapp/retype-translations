@@ -489,4 +489,8 @@
     <value>వ్యవస్థ</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>దీని ద్వారా సూచించబడింది</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

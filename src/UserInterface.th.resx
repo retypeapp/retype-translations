@@ -489,4 +489,8 @@
     <value>ระบบ</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>อ้างอิงโดย</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

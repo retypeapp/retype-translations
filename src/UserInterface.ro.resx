@@ -489,4 +489,8 @@
     <value>Sistem</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>Referențiat de</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>

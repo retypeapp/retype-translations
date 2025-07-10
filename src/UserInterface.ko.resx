@@ -489,4 +489,8 @@
     <value>시스템</value>
     <comment>System</comment>
   </data>
+  <data name="Backlinks-Title" xml:space="preserve">
+    <value>참조됨</value>
+    <comment>Referenced by</comment>
+  </data>
 </root>
