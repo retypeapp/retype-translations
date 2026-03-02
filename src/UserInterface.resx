@@ -381,6 +381,10 @@
     <value>Blog</value>
     <comment>Blog</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>Page</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Categories_Title" xml:space="preserve">
     <value>Categories</value>
     <comment>Categories</comment>
@@ -449,9 +453,33 @@
     <value>Search</value>
     <comment>Search</comment>
   </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>navigate</value>
+    <comment>navigate</comment>
+  </data>
   <data name="Search_NoResults_Label" xml:space="preserve">
     <value>Sorry, no results found.</value>
     <comment>Sorry, no results found.</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>open</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>close</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>Top {0} results</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>{0} result</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0} results</value>
+    <comment>{0} results</comment>
   </data>
   <data name="Sidebar_Filter_Placeholder" xml:space="preserve">
     <value>Filter</value>

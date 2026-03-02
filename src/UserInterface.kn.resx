@@ -377,6 +377,10 @@
     <value>ಕಂಡುಬರಲಾಗಲಿಲ್ಲ</value>
     <comment>Not Found</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>ಪುಟ</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Blog_Title" xml:space="preserve">
     <value>ಬ್ಲಾಗ್</value>
     <comment>Blog</comment>
@@ -492,5 +496,29 @@
   <data name="Backlinks_Title" xml:space="preserve">
     <value>ಇದನ್ನೂ ನೋಡಿ</value>
     <comment>See also</comment>
+  </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>ನ್ಯಾವಿಗೇಟ್</value>
+    <comment>navigate</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>ತೆರೆ</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>ಮುಚ್ಚು</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>ಟಾಪ್ {0} ಫಲಿತಾಂಶಗಳು</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>{0} ಫಲಿತಾಂಶ</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0} ಫಲಿತಾಂಶಗಳು</value>
+    <comment>{0} results</comment>
   </data>
 </root>

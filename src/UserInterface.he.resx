@@ -377,6 +377,10 @@
     <value>לא נמצא</value>
     <comment>Not Found</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>עמוד</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Blog_Title" xml:space="preserve">
     <value>בלוג</value>
     <comment>Blog</comment>
@@ -492,5 +496,29 @@
   <data name="Backlinks_Title" xml:space="preserve">
     <value>ראו גם</value>
     <comment>See also</comment>
+  </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>ניווט</value>
+    <comment>navigate</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>פתיחה</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>סגירה</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>{0} התוצאות המובילות</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>תוצאה {0}</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0} תוצאות</value>
+    <comment>{0} results</comment>
   </data>
 </root>

@@ -377,6 +377,10 @@
     <value>Չի գտնվել</value>
     <comment>Not Found</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>Էջ</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Blog_Title" xml:space="preserve">
     <value>Բլոգ</value>
     <comment>Blog</comment>
@@ -492,5 +496,29 @@
   <data name="Backlinks_Title" xml:space="preserve">
     <value>Տես նաև</value>
     <comment>See also</comment>
+  </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>նdelays</value>
+    <comment>navigate</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>բացել</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>փակել</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>Լdelays {0} արdelays</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>{0} delays</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0} delays</value>
+    <comment>{0} results</comment>
   </data>
 </root>

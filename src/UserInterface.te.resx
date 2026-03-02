@@ -377,6 +377,10 @@
     <value>కనబడలేదు</value>
     <comment>Not Found</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>పేజీ</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Blog_Title" xml:space="preserve">
     <value>బ్లాగ్</value>
     <comment>Blog</comment>
@@ -492,5 +496,29 @@
   <data name="Backlinks_Title" xml:space="preserve">
     <value>ఇవి కూడా చూడండి</value>
     <comment>See also</comment>
+  </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>నావిగేట్</value>
+    <comment>navigate</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>తెరువు</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>మూసివేయు</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>టాప్ {0} ఫలితాలు</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>{0} ఫలితం</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0} ఫలితాలు</value>
+    <comment>{0} results</comment>
   </data>
 </root>

@@ -377,6 +377,10 @@
     <value>見つかりません</value>
     <comment>Not Found</comment>
   </data>
+  <data name="Page_Page" xml:space="preserve">
+    <value>ページ</value>
+    <comment>Page</comment>
+  </data>
   <data name="Page_Blog_Title" xml:space="preserve">
     <value>ブログ</value>
     <comment>Blog</comment>
@@ -492,5 +496,29 @@
   <data name="Backlinks_Title" xml:space="preserve">
     <value>関連項目</value>
     <comment>See also</comment>
+  </data>
+  <data name="Search_Navigate_Label" xml:space="preserve">
+    <value>ナビゲート</value>
+    <comment>navigate</comment>
+  </data>
+  <data name="Search_Open_Label" xml:space="preserve">
+    <value>開く</value>
+    <comment>open</comment>
+  </data>
+  <data name="Search_Close_Label" xml:space="preserve">
+    <value>閉じる</value>
+    <comment>close</comment>
+  </data>
+  <data name="Search_TopResults_Label" xml:space="preserve">
+    <value>上位{0}件の結果</value>
+    <comment>Top {0} results</comment>
+  </data>
+  <data name="Search_Result_Singular_Label" xml:space="preserve">
+    <value>{0}件の結果</value>
+    <comment>{0} result</comment>
+  </data>
+  <data name="Search_Result_Plural_Label" xml:space="preserve">
+    <value>{0}件の結果</value>
+    <comment>{0} results</comment>
   </data>
 </root>
